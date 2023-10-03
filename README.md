@@ -9,3 +9,7 @@ O código mantido neste repositório foi criado para a atividade de teste de cai
 3 - O código não trata exceções   
 4 - Os dados sobre login estão sendo passados diretamente na url, o que é uma grande falha de segurança da informação.   
 5 - Os nullpointers foram tratados, porém as conexões utilizadas não foram devidamente fechadas.
+
+### Nós do código
+
+![image](https://github.com/Na1au/Teste_Caixa_Branca/assets/108345142/50e9a320-056f-4d7d-8a48-22f059235029)
