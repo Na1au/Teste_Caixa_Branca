@@ -13,3 +13,6 @@ O código mantido neste repositório foi criado para a atividade de teste de cai
 ### Nós do código
 
 ![image](https://github.com/Na1au/Teste_Caixa_Branca/assets/108345142/50e9a320-056f-4d7d-8a48-22f059235029)
+
+### Grafo
+![image](https://github.com/Na1au/Teste_Caixa_Branca/assets/108345142/c3f10522-bba6-492a-8ee3-1cb6be7fa977)
